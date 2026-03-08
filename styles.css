@@ -2,11 +2,9 @@
   margin: 0px;
   padding: 0px;
 }
-body{
-  background-color: #f0f6fc;
 
-
-
+body {
+  background-color: #5a939d;
 }
 
 
@@ -38,15 +36,42 @@ nav ul {
   text-decoration: none;
 }
 
+.window_iframe {
+  padding: 0.01vh;
+  width: 70%;
+  aspect-ratio: 16 / 9;
+  border: none;
+  /*height: 90vh ;*/
+  overflow-y: auto;
+  /* Desplazamiento vertical */
+  -webkit-overflow-scrolling: touch;
+  /* Scroll en dispositivos mobiles o tactiles */
+
+
+
+}
+
+
+
 
 
 footer {
   text-align: center;
-  margin-top: 90%;
+  margin-top: 10%;
   background-color: #5e5e5e;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (max-witdh: 768px) {
+  .window_iframe {
+
+    min-height: 500vh;
+  }
 
 
+  footer {
+    margin-top: 40vh;
 
+  }
 }
