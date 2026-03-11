@@ -36,10 +36,16 @@ nav ul {
   text-decoration: none;
 }
 
+
+
+
+
+
+
 .window_iframe {
   padding: 0.01vh;
   width: 70%;
-  aspect-ratio: 16 / 9;
+  /*aspect-ratio: 16 / 9;*/
   border: none;
   /*height: 90vh ;*/
   overflow-y: auto;
@@ -47,7 +53,7 @@ nav ul {
   -webkit-overflow-scrolling: touch;
   /* Scroll en dispositivos mobiles o tactiles */
 
-
+border-radius: 2%;
 
 }
 

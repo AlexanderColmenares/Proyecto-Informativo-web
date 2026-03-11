@@ -1,13 +1,5 @@
-* {
-  padding: 0px;
-  margin: 0px;
-}
+* {}
 
-body {
-
-  background-color: aquamarine;
-  padding: 1vh;
-}
 
 .caja{
 
@@ -133,9 +125,3 @@ body {
   padding: 30px;
   margin: 30px 0;
 }
-
-.contenido-teorico {
-  font-size: 1.5rem;
-
-}
-

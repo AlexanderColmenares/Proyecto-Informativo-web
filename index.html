@@ -7,7 +7,7 @@
   <title>Proyecto</title>
   <link href="styles.css" rel="stylesheet">
 </head>
-
+<script src="main.js"></script>
 <body>
 
   <div>
@@ -27,8 +27,13 @@
           </a></li>
       </ul>
     </nav>
+  <br>
 
-    <iframe name="mi_visor" src="inicio.html" class="window_iframe"></iframe>
+    <iframe name="mi_visor" src="inicio.htmi" frameborder="0" scrolling="no" onload="ajustarIframe(this)" class="window_iframe"
+function ajustarIframe(obj) {
+  obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+}
+      ></iframe>
 
 
   </div>
