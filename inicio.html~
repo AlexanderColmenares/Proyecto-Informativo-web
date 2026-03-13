@@ -38,37 +38,31 @@
         <h2 class="titulo-tema">Solución Estructurada</h2>
 
         <div class="contenido-teorico">
-          <p>Este espacio ha sido diseñado para solventar la brecha de información mediante la centralización de las
-            tres áreas fundamentales de la matemática en ingeniería. Aquí se ofrece un repositorio lógico y técnico que
-            permite al estudiante una transición fluida entre los distintos niveles de abstracción, consolidando el
-            conocimiento desde un enfoque práctico y profesional.</p>
+          <p>Este espacio ha sido diseñado para solventar la brecha de información mediante la centralización de las tres áreas fundamentales de la matemática en ingeniería. Aquí se ofrece un repositorio lógico y técnico que permite al estudiante una transición fluida entre los distintos niveles de abstracción, consolidando el conocimiento desde un enfoque práctico y profesional.</p>
         </div>
-        <article clas="temas">
+        <article clas="temas" >
           <br>
-          <h2>Guía de Contenido</h2>
-
-          <br>
-
-          <h3>Álgebra Lineal:</h3>
-          <br>
-          <p> Estudio de matrices, determinantes y sistemas de ecuaciones lineales. Incluye el análisis de vectores,
-            espacios vectoriales y transformaciones lineales.</p>
-
+          <h2>Guía de Contenido</h2> 
+          
           <br>
 
-          <h3>Cálculo Diferencial:</h3>
-          <br>
-          <p>Análisis de funciones, límites y continuidad. Desarrollo técnico de derivadas y sus aplicaciones prácticas
-            en diversos contextos de ingeniería.</p>
+            <h3>Álgebra Lineal:</h3>
+            <br>
+            <p>   Estudio de matrices, determinantes y sistemas de ecuaciones lineales. Incluye el análisis de vectores, espacios vectoriales y transformaciones lineales.</p>
+              
+             <br> 
 
-          <br>
-          <h3>Geometría:</h3>
-          <br>
-          <p>Exploración de la geometría métrica plana y figuras geométricas. Incluye secciones especializadas en
-            geometría analítica y el estudio de superficies cónicas.</p>
+            <h3>Cálculo Diferencial:</h3>
+            <br>
+            <p>Análisis de funciones, límites y continuidad. Desarrollo técnico de derivadas y sus aplicaciones prácticas en diversos contextos de ingeniería.</p>
+                 
+            <br>
+            <h3>Geometría:</h3>
+            <br>
+            <p>Exploración de la geometría métrica plana y figuras geométricas. Incluye secciones especializadas en geometría analítica y el estudio de superficies cónicas.</p>
 
 
-        </article>
+        </article>  
 
       </article>
     </section>
