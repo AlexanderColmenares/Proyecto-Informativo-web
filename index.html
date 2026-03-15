@@ -10,7 +10,7 @@
 <script src="main.js"></script>
 <body>
 
-  <div>
+  <div>   
     <nav>
       <ul>
         <li class="li-space"><a href="inicio.html" target="mi_visor">
@@ -25,11 +25,12 @@
         <li class="li-space"><a href="geometria.html" target="mi_visor">
             <h4>Geometria</h4>
           </a></li>
+          <li class="li-space"><a class="boton-descarga" href="Formulario_Regalo.pdf" download="Formularios">Formularios</a></li>
       </ul>
     </nav>
   <br>
 
-    <iframe name="mi_visor" src="inicio.htmi" frameborder="0" scrolling="no" onload="ajustarIframe(this)" class="window_iframe"
+    <iframe name="mi_visor" src="inicio.html" frameborder="0" scrolling="no" onload="ajustarIframe(this)" class="window_iframe"
 function ajustarIframe(obj) {
   obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
 }
