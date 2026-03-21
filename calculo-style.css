@@ -8,6 +8,25 @@ body {
 }
 
 
+.boton-descarga {
+
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color:#ffffff;
+  text-decoration: none;
+  border-radius:5px ;
+  margin-left: 2vh;
+  font-weight: bold;
+  transition:0.3s ;
+}
+.boton-descarga:hover {
+cursor:pointer;
+  background-color:#0056b3;
+
+
+}
+
 .caja{
 
   background-color:#bbb;
